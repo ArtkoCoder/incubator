@@ -24,7 +24,8 @@
     "require": {
         "php": ">=5.5",
         "ext-phalcon": "^3.0",
-        "swiftmailer/swiftmailer": "~5.2"
+        "swiftmailer/swiftmailer": "~5.2",
+        "pomm-project/foundation": "^2.0"
     },
     "require-dev": {
         "phpdocumentor/reflection-docblock": "^2.0.4",
